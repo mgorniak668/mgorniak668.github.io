@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Redirecting...</title>
-<!-- Redirects to the specified URL after 5 seconds -->
+  <meta charset="utf-8" />
 <meta http-equiv="refresh" content="5; url=https://mgorniak668.github.io/landing.html">
 </head>
 <body>
-<p>You will be redirected automatically in 5 seconds.</p>
-<p>If not, <a href="https://mgorniak668.github.io/landing.html">click here</a>.</p>
+<p>Zaraz przejdziesz na właściwą stronę mojej epickiej strony stronowania strony</p>
+<p>Jak nie przekieruje, to klikaj tutaj albo masz problem -- <a href="https://mgorniak668.github.io/landing.html">o tu właśnie</a>.</p>
 </body>
 </html>
