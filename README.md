@@ -5,6 +5,6 @@
 </head>
 <body>
 <p>Zaraz przejdziesz na właściwą stronę mojej epickiej strony stronowania strony</p>
-<p>Jak nie przekieruje, to klikaj tutaj albo masz problem -- <a href="https://mgorniak668.github.io/landing.html">o tu właśnie</a>.</p>
+<p>Jak nie przekieruje, to klikaj tutaj -- <a href="https://mgorniak668.github.io/landing.html">o tu właśnie</a>.</p>
 </body>
 </html>
