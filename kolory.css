@@ -1,0 +1,102 @@
+main{
+	width:500px;
+	height:500px;
+	display:flex;
+	flex-wrap:wrap;
+	align-items:center;
+	justify-content:center;
+	gap:15px;
+}
+
+div{
+	width:22%;
+	height:22%;
+	box-sizing:border-box;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+}
+
+.c1{
+	color:black;
+	background-color:#C0C0C0;
+}
+
+.c2{
+	color:white;
+	background-color:#808080;
+}
+
+.c3{
+	color:white;
+	background-color:#800000;
+}
+
+.c4{
+	color:white;
+	background-color:#008000;
+}
+
+.c5{
+	color:black;
+	background-color:#FFFFFF;
+}
+
+.c6{
+	color:white;
+	background-color:#000000;
+	border:10px;
+	border-style:groove double;
+}
+
+.c7{
+	color:black;
+	background-color:#FF0000;
+}
+
+.c8{
+	color:black;
+	background-color:#00FF00;
+}
+
+.c9{
+	color:white;
+	background-color:#000080;
+}
+
+.c10{
+	color:white;
+	background-color:#800080;
+}
+
+.c11{
+	color:white;
+	background-color:#808000;
+}
+
+.c12{
+	color:white;
+	background-color:#008080;
+}
+
+.c13{
+	color:white;
+	background-color:#0000FF;
+}
+
+.c14{
+	color:black;
+	background-color:#FF00FF;
+}
+
+.c15{
+	color:black;
+	background-color:#FFFF00;
+}
+
+.c16{
+	color:black;
+	background-color:#00FFFF;
+}
+
