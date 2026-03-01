@@ -1,0 +1,55 @@
+body{
+	width:96vw;
+	height:96vh;
+}
+
+header{
+	background-color:red;
+	height:15%;
+	width:100%;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	font-size:48px;
+	color:white;
+}
+
+main{
+	height:70%;
+	width:100%;
+	display:flex;
+}
+
+section{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:orange;
+	width:20%;
+	height:100%;
+	font-size:48px;
+	color:yellow;
+}
+
+aside{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:#EFE4B0;
+	width:80%;
+	height:100%;
+}
+
+footer{
+	display:flex;
+	justify-content:right;
+	align-items:flex-end;
+	background-color:#C3CBEF;
+	font-size:18px;
+	color:red;
+}
+
+img{
+	width:50%;
+	height:100%;
+}
