@@ -1,0 +1,36 @@
+header{
+	width:100vw;
+	height:20vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:#FFDEAD
+}
+main{
+	width:100vw;
+	height:60vh;
+	display:flex;
+}
+aside{
+	width:30vw;
+	height:100%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:beige;
+}
+section{
+	width:70vw;
+	height:100%;
+	background-color:brown;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+footer{
+	width:100vw;
+	height:20vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:#FFDEAD
